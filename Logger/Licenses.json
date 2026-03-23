@@ -6,5 +6,9 @@
     "172.84.94.158" : {
         "ServerOwner": "Sosna",
         "Permited": true
+    },
+    "188.255.171.158" : {
+        "ServerOwner": "BlackBear",
+        "Permited": true
     }
 }
